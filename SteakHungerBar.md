@@ -23,7 +23,7 @@
 
 <details>
   <summary>
-  :floppy_disk:Full version lists:floppy_disk:
+  :floppy_disk:Extended version tables:floppy_disk:
   </summary>
   
 |  | 26.3 |
