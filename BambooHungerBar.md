@@ -18,7 +18,6 @@
 | :white_check_mark: | Complete |
 | :warning: | Incomplete |
 | :x: | Unavailable |
-| :grey_question: | Unconfirmed |
 
 <details>
   <summary>
