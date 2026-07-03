@@ -18,6 +18,7 @@
 | :white_check_mark: | Complete |
 | :warning: | Incomplete |
 | :x: | Unavailable |
+| | |
 
 <details>
   <summary>
