@@ -8,7 +8,7 @@
 | [Farmers<br>Delight<br>[Fabric]](https://modrinth.com/mod/farmers-delight-fabric) | :grey_question: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | |
 | | **1.12.x** | **1.11.x** | **1.10.x** | **1.9.x** | **1.8.x** | **1.7.x** | **1.6.x** | **1.5.x** | **1.4.x** | **1.3.x** | **1.2.x** | **1.1** | **1.0** |
-| [AppleSkin](https://modrinth.com/mod/appleskin) | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| [AppleSkin](https://modrinth.com/mod/appleskin) | :x: | :x: | :warning: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | [Farmers<br>Delight<br>Refabricated](https://modrinth.com/mod/farmers-delight-refabricated) | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | [Farmers<br>Delight](https://modrinth.com/mod/farmers-delight) | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | [Farmers<br>Delight<br>[Fabric]](https://modrinth.com/mod/farmers-delight-fabric) | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
@@ -124,7 +124,7 @@
 
 |  | 1.10.2 | 1.10.1 | 1.10 |
 | :---: | :---: | :---: | :---: |
-| [AppleSkin](https://modrinth.com/mod/appleskin) | :x: | :x: | :x: |
+| [AppleSkin](https://modrinth.com/mod/appleskin) | :white_check_mark: | :x: | :x: |
 | [Farmers<br>Delight<br>Refabricated](https://modrinth.com/mod/farmers-delight-refabricated) | :x: | :x: | :x: |
 | [Farmers<br>Delight](https://modrinth.com/mod/farmers-delight) | :x: | :x: | :x: |
 | [Farmers<br>Delight<br>[Fabric]](https://modrinth.com/mod/farmers-delight-fabric) | :x: | :x: | :x: |
