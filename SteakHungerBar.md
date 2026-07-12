@@ -23,6 +23,8 @@
   <summary>
   :floppy_disk:Extended version tables:floppy_disk:
   </summary>
+
+  <br>
   
 |  | 26.3 | 26.2 | 26.1.2 | 26.1.1 | 26.1 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
