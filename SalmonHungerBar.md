@@ -2,7 +2,7 @@
 
 |  | 26.3 | 26.x | 1.21.x | 1.20.x | 1.19.x | 1.18.x | 1.17.x | 1.16.x | 1.15.x | 1.14.x | 1.13.x | 1.12.x |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [AppleSkin](https://modrinth.com/mod/appleskin) | :grey_question: | :x: | :x: | :warning: | :white_check_mark: | :white_check_mark: | :warning: | :warning: | :warning: | :warning: | :warning: | :warning: |
+| [AppleSkin](https://modrinth.com/mod/appleskin) | :grey_question: | :x: | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :warning: | :warning: | :warning: | :warning: | :warning: | :warning: |
 | [Farmers<br>Delight<br>Refabricated](https://modrinth.com/mod/farmers-delight-refabricated) | :grey_question: | :x: | :x: | :warning: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | [Farmers<br>Delight](https://modrinth.com/mod/farmers-delight) | :grey_question: | :x: | :x: | :warning: | :warning: | :warning: | :x: | :x: | :x: | :x: | :x: | :x: |
 | [Farmers<br>Delight<br>[Fabric]](https://modrinth.com/mod/farmers-delight-fabric) | :grey_question: | :x: | :x: | :warning: | :warning: | :warning: | :x: | :x: | :x: | :x: | :x: | :x: |
@@ -42,7 +42,7 @@
 
 |  | 1.20.6 | 1.20.5 | 1.20.4 | 1.20.3 | 1.20.2 | 1.20.1 | 1.20 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [AppleSkin](https://modrinth.com/mod/appleskin) | :x: | :x: | :white_check_mark: | :x: | :x: | :white_check_mark: | :white_check_mark: |
+| [AppleSkin](https://modrinth.com/mod/appleskin) | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | [Farmers<br>Delight<br>Refabricated](https://modrinth.com/mod/farmers-delight-refabricated) | :x: | :x: | :x: | :x: | :x: | :white_check_mark: | :x: |
 | [Farmers<br>Delight](https://modrinth.com/mod/farmers-delight) | :x: | :x: | :x: | :x: | :x: | :white_check_mark: | :x: |
 | [Farmers<br>Delight<br>[Fabric]](https://modrinth.com/mod/farmers-delight-fabric) | :x: | :x: | :x: | :x: | :x: | :white_check_mark: | :white_check_mark: |
