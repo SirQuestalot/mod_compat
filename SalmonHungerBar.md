@@ -1,4 +1,4 @@
-# <div align="center">What I've tested<br><sup><small>2026-July-20<small><sup><div align="center">
+# <div align="center">What I've tested<br><sup><small>2026-July-22<small><sup><div align="center">
 
 |  | 26.3 | 26.x | 1.21.x | 1.20.x | 1.19.x | 1.18.x | 1.17.x | 1.16.x | 1.15.x | 1.14.x | 1.13.x | 1.12.x |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -35,8 +35,8 @@
 
 |  | 1.21.11 | 1.21.10 | 1.21.9 | 1.21.8 | 1.21.7 | 1.21.6 | 1.21.5 | 1.21.4 | 1.21.3 | 1.21.2 | 1.21.1 | 1.21 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [AppleSkin](https://modrinth.com/mod/appleskin) | :x: | :x: | :x: | :x: | :x: | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: |
-| [Farmers<br>Delight<br>Refabricated](https://modrinth.com/mod/farmers-delight-refabricated) | :x: | :x: | :x: | :x: | :x: | :x: | :white_check_mark: | :x: | :x: | :x: | :white_check_mark: | :x: |
+| [AppleSkin](https://modrinth.com/mod/appleskin) | :x: | :x: | :x: | :x: | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: |
+| [Farmers<br>Delight<br>Refabricated](https://modrinth.com/mod/farmers-delight-refabricated) | :x: | :x: | :x: | :x: | :x: | :white_check_mark: | :white_check_mark: | :x: | :x: | :x: | :white_check_mark: | :x: |
 | [Farmers<br>Delight](https://modrinth.com/mod/farmers-delight) | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :white_check_mark: | :white_check_mark: |
 | [Farmers<br>Delight<br>[Fabric]](https://modrinth.com/mod/farmers-delight-fabric) | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 
