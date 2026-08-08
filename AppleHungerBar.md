@@ -1,8 +1,8 @@
-# <div align="center">What I've tested<br><sup><small>2026-August-6<small><sup><div align="center">
+# <div align="center">What I've tested<br><sup><small>2026-August-8<small><sup><div align="center">
 
 |  | 26.3 | 26.x | 1.21.x | 1.20.x | 1.19.x | 1.18.x | 1.17.x | 1.16.x | 1.15.x | 1.14.x | 1.13.x | 1.12.x |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [AppleSkin](https://modrinth.com/mod/appleskin) | :grey_question: | :x: | :x: | :warning: | :x: | :x: | :x: | :warning: | :warning: | :warning: | :warning: | :warning: |
+| [AppleSkin](https://modrinth.com/mod/appleskin) | :grey_question: | :x: | :x: | :warning: | :x: | :x: | :warning: | :warning: | :warning: | :warning: | :warning: | :warning: |
 | [Farmers<br>Delight<br>Refabricated](https://modrinth.com/mod/farmers-delight-refabricated) | :grey_question: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | [Farmers<br>Delight](https://modrinth.com/mod/farmers-delight) | :grey_question: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | [Farmers<br>Delight<br>[Fabric]](https://modrinth.com/mod/farmers-delight-fabric) | :grey_question: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
@@ -63,7 +63,7 @@
 
 |  | 1.17.1 | 1.17 |
 | :---: | :---: | :---: |
-| [AppleSkin](https://modrinth.com/mod/appleskin) | :x: | :x: |
+| [AppleSkin](https://modrinth.com/mod/appleskin) | :white_check_mark: | :x: |
 | [Farmers<br>Delight<br>Refabricated](https://modrinth.com/mod/farmers-delight-refabricated) | :x: | :x: |
 | [Farmers<br>Delight](https://modrinth.com/mod/farmers-delight) | :x: | :x: |
 | [Farmers<br>Delight<br>[Fabric]](https://modrinth.com/mod/farmers-delight-fabric) | :x: | :x: |
