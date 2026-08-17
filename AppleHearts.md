@@ -2,7 +2,7 @@
 
 |  | 26.3 | 26.x | 1.21.x | 1.20.x | 1.19.x | 1.18.x | 1.17.x | 1.16.x | 1.15.x | 1.14.x | 1.13.x | 1.12.x |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Farmers<br>Delight<br>Refabricated](https://modrinth.com/mod/farmers-delight-refabricated) | :grey_question: | :warning: | :warning: | :warning: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| [Farmers<br>Delight<br>Refabricated](https://modrinth.com/mod/farmers-delight-refabricated) | :grey_question: | :white_check_mark: | :warning: | :warning: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 | [Farmers<br>Delight](https://modrinth.com/mod/farmers-delight) | :grey_question: | :x: | :warning: | :warning: | :warning: | :warning: | :x: | :x: | :x: | :x: | :x: | :x: |
 | [Farmers<br>Delight<br>[Fabric]](https://modrinth.com/mod/farmers-delight-fabric) | :grey_question: | :x: | :x: | :warning: | :warning: | :warning: | :x: | :x: | :x: | :x: | :x: | :x: |
 | |
@@ -26,7 +26,7 @@
   
 |  | 26.3 | 26.2 | 26.1.2 | 26.1.1 | 26.1 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Farmers<br>Delight<br>Refabricated](https://modrinth.com/mod/farmers-delight-refabricated) | :grey_question: | :white_check_mark: | :x: | :x: | :x: |
+| [Farmers<br>Delight<br>Refabricated](https://modrinth.com/mod/farmers-delight-refabricated) | :grey_question: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | [Farmers<br>Delight](https://modrinth.com/mod/farmers-delight) | :grey_question: | :x: | :x: | :x: | :x: |
 | [Farmers<br>Delight<br>[Fabric]](https://modrinth.com/mod/farmers-delight-fabric) | :grey_question: | :x: | :x: | :x: | :x: |
 
