@@ -46,7 +46,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Farmers<br>Delight<br>Refabricated](https://modrinth.com/mod/farmers-delight-refabricated) | :x: | :x: | :x: | :x: | :x: |
 | [Farmers<br>Delight](https://modrinth.com/mod/farmers-delight) | :x: | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| [Farmers<br>Delight<br>[Fabric]](https://modrinth.com/mod/farmers-delight-fabric) | :x: | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| [Farmers<br>Delight<br>[Fabric]](https://modrinth.com/mod/farmers-delight-fabric) | :white_check_mark: | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 
 |  | 1.18.2 | 1.18.1 | 1.18 |
 | :---: | :---: | :---: | :---: |
